@@ -82,12 +82,12 @@ Word Count 1,047
 
 # References
 
-[1]		M. Katz. (2017, Oct. 2). A Lone Data Whiz Is Fighting Airbnb — and Winning [Online]. Available: 		https://www.wired.com/2017/02/a-lone-data-whiz-is-fighting-airbnb-and-winning/
+[1]		M. Katz. (2017, Oct. 2). *A Lone Data Whiz Is Fighting Airbnb — and Winning* [Online]. Available: 		https://www.wired.com/2017/02/a-lone-data-whiz-is-fighting-airbnb-and-winning/
 
 [2]		M. Cox and T. Slee, “How Airbnb’s data hid the facts in New York City”, Report [Online], February 10, 		2016. Available: http://insideairbnb.com/reports/how-airbnbs-data-hid-the-facts-in-new-york-city.pdf
 
-[3]		Inside Airbnb. Behind Inside Airbnb [Online]. Available: http://insideairbnb.com/behind.html
+[3]		Inside Airbnb. *Behind Inside Airbnb* [Online]. Available: http://insideairbnb.com/behind.html
 
-[4]		A. Weisler and D. Wachsmuth. “Airbnb and the rent gap: Gentrification through the sharing 		economy,” Environment and Planning A: Economy and Space, vol. 50, iss. 6, pp. 1147-1170, 2018.
+[4]		A. Weisler and D. Wachsmuth. “Airbnb and the rent gap: Gentrification through the sharing economy,” *Environment and Planning A: Economy and Space*, vol. 50, iss. 6, pp. 1147-1170, 2018.
 
-[5]		C. D’Ignazio and L. Klein. (2018) “Chapter Three: “What Gets Counted Counts,” in Data Feminism 		[Online]. Available: https://mitpressonpubpub.mitpress.mit.edu/pub/rykaknh1/release/4
+[5]		C. D’Ignazio and L. Klein. (2018) “Chapter Three: “What Gets Counted Counts,” in *Data Feminism* [Online]. Available: https://mitpressonpubpub.mitpress.mit.edu/pub/rykaknh1/release/4
