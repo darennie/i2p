@@ -78,7 +78,9 @@ Like a hammer, knife or a gun, data analysis is a tool to reach a specific end. 
 
 Word Count 1,047
 
+---
 
+# References
 
 [1]		M. Katz. (2017, Oct. 2). A Lone Data Whiz Is Fighting Airbnb — and Winning [Online]. Available: 		https://www.wired.com/2017/02/a-lone-data-whiz-is-fighting-airbnb-and-winning/
 
